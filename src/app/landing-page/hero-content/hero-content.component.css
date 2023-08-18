@@ -1,0 +1,12 @@
+mat-grid-tile {
+    background: lightblue;
+}
+
+.hero {
+    background: blue;
+}
+
+.bgImage {
+
+    background-image: url(../../../assets/stock-trading-6525084_1920.jpg);
+}
